@@ -13,8 +13,8 @@
 
 ## Websites for others
 
-> - [**Markowe Meble**](https://markowe-meble.com.pl)
+ - [**Markowe Meble**](https://markowe-meble.com.pl)
 
-> - [**Sound Architecture**](https://soundarchitecture.netlify.app)
+ - [**Sound Architecture**](https://soundarchitecture.netlify.app)
 
 
