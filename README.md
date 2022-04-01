@@ -7,3 +7,8 @@
 >👉I am an IT technician 
 >
 >👉I am student of economy
+
+>    CRA (React)
+>   SCSS
+> -   Typescript
+> -   Node.js and MongoDB (backend)
