@@ -18,7 +18,7 @@
  - [**Sound Architecture**](https://soundarchitecture.netlify.app)
 
 ## 👨‍💻 Languages and other technologies 
-<img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="40"  align="left"/>
+<img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="40"  align="left" title="xx"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="40"  align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312230-36d37ac5-8801-4313-a68c-c5695c429b70.png" alt="javascript" height="40" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161311954-e03613e7-54b2-4d1b-ac2e-559f8c1e9f2d.png" alt="javascript" height="40"  align="left"/>
