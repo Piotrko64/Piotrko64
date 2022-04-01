@@ -31,12 +31,7 @@
 <img src="https://user-images.githubusercontent.com/77500425/161312763-dd21dc88-2b1a-4a66-896b-8ce02e0c6a8c.png" alt="Node"  height="40" align="left"/>
 <img alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+## 🎯 My next goals 
+<img src="https://user-images.githubusercontent.com/77500425/161314039-29c3a4f1-36b7-4757-84e4-bd0757e5e73a.png" alt="Next.js" height="40"  align="left" title="NextJS"/>
 
-
-
-
-
-
-
-## My next goals 
 
