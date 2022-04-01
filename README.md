@@ -32,7 +32,7 @@
 <img alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ## 🎯 My next goals 
-<img src="https://user-images.githubusercontent.com/77500425/161314237-2f78442a-1d37-4555-b124-b26602eb25e8.png" alt="Next.js" height="40"  align="left" title="NextJS"/>
+<img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="40"  align="left" title="NextJS"/>
 
 
 
