@@ -18,9 +18,9 @@
  - [**Sound Architecture**](https://soundarchitecture.netlify.app)
 
 ## 👨‍💻 Languages and other technologies 
-<img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="40"  align="left" title="HTML"/>
-<img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="40"  align="left" title="CSS"/>
-<img src="https://user-images.githubusercontent.com/77500425/161312230-36d37ac5-8801-4313-a68c-c5695c429b70.png" alt="javascript" height="40" align="left" title="JS"/>
+<img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="45"  align="left" title="HTML"/>
+<img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="45"  align="left" title="CSS"/>
+<img src="https://user-images.githubusercontent.com/77500425/161312230-36d37ac5-8801-4313-a68c-c5695c429b70.png" alt="javascript" height="45" align="left" title="JS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161311954-e03613e7-54b2-4d1b-ac2e-559f8c1e9f2d.png" alt="typescript" height="40"  align="left" title="TS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161311874-2582135f-2ad4-420c-8c77-dd60594871e1.png" alt="bootstrap" height="40"  align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="40" align="left"/>
@@ -32,10 +32,10 @@
 <img alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ## 🎯 My next goals 
-<img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="65"  align="left" title="NextJS"/>
-<img src="https://user-images.githubusercontent.com/77500425/161314431-3f4833dd-b483-4308-bebf-4348b9d3c7bd.png" alt="SQL" height="65"  align="left" title="MySQL and SQL"/>
-<img src="https://user-images.githubusercontent.com/77500425/161314456-895abf4c-d1f6-4819-a053-f35919c6ee42.png" alt="rxjs" height="65"  align="left" title="Reactive programming"/>
-<img src="https://user-images.githubusercontent.com/77500425/161314463-caa94cf9-262d-43d3-89fb-b77d22e696cc.png" alt="angular" height="65"  align="left" title="I would like write better code with Angular framework"/>
+<img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="60"  align="left" title="NextJS"/>
+<img src="https://user-images.githubusercontent.com/77500425/161314431-3f4833dd-b483-4308-bebf-4348b9d3c7bd.png" alt="SQL" height="60"  align="left" title="MySQL and SQL"/>
+<img src="https://user-images.githubusercontent.com/77500425/161314456-895abf4c-d1f6-4819-a053-f35919c6ee42.png" alt="rxjs" height="60"  align="left" title="Reactive programming"/>
+<img src="https://user-images.githubusercontent.com/77500425/161314463-caa94cf9-262d-43d3-89fb-b77d22e696cc.png" alt="angular" height="60"  align="left" title="I would like write better code with Angular framework"/>
 
 
 
