@@ -24,6 +24,7 @@
 <img src="https://user-images.githubusercontent.com/77500425/161311874-2582135f-2ad4-420c-8c77-dd60594871e1.png" alt="bootstrap" height="35"  align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312615-f3961568-28bb-48fa-9d95-93ecd61337b3.png" alt="react"  height="35" align="left"/>
+<img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="35"  align="left" title="NextJS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312978-1f37569f-b06b-45a7-81c0-4e7353264960.svg" alt="Gatsby"  height="35" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161313295-a11c936d-a0b3-4bb6-84c1-9ea3c459c3b8.png" alt="Mongo"  height="35" align="left"/>
@@ -31,7 +32,7 @@
 <img alt="Visual Studio Code" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ## 🎯 My next goals 
-<img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="40"  align="left" title="NextJS"/>
+
 <img src="https://user-images.githubusercontent.com/77500425/161314431-3f4833dd-b483-4308-bebf-4348b9d3c7bd.png" alt="SQL" height="40"  align="left" title="MySQL and SQL"/>
 <img src="https://user-images.githubusercontent.com/77500425/161314456-895abf4c-d1f6-4819-a053-f35919c6ee42.png" alt="rxjs" height="40"  align="left" title="Reactive programming"/>
 <img src="https://user-images.githubusercontent.com/77500425/161314463-caa94cf9-262d-43d3-89fb-b77d22e696cc.png" alt="angular" height="40"  align="left" title="I would like write better code with Angular framework"/>
