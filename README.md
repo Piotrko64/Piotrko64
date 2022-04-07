@@ -30,12 +30,13 @@
 <img src="https://user-images.githubusercontent.com/77500425/161313295-a11c936d-a0b3-4bb6-84c1-9ea3c459c3b8.png" alt="Mongo"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312763-dd21dc88-2b1a-4a66-896b-8ce02e0c6a8c.png" alt="Node"  height="35" align="left"/>
 <img alt="Visual Studio Code" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img src="https://user-images.githubusercontent.com/77500425/161314431-3f4833dd-b483-4308-bebf-4348b9d3c7bd.png" alt="SQL" height="35"  align="left" title="MySQL and SQL"/>
 ## 🎯 My next goals 
 
-<img src="https://user-images.githubusercontent.com/77500425/161314431-3f4833dd-b483-4308-bebf-4348b9d3c7bd.png" alt="SQL" height="40"  align="left" title="MySQL and SQL"/>
+
 <img src="https://user-images.githubusercontent.com/77500425/161314456-895abf4c-d1f6-4819-a053-f35919c6ee42.png" alt="rxjs" height="40"  align="left" title="Reactive programming"/>
-<img src="https://user-images.githubusercontent.com/77500425/161314463-caa94cf9-262d-43d3-89fb-b77d22e696cc.png" alt="angular" height="40"  align="left" title="I would like write better code with Angular framework"/>
+<img src="https://user-images.githubusercontent.com/77500425/162248968-1306a5a9-1683-4764-8608-95eeed00d10e.png" alt="angular" height="40"  align="left" title="I would like write better code with Angular framework"/>
+<img src="https://user-images.githubusercontent.com/77500425/162248842-39e68a01-c651-47a4-b670-1b476a974bca.png)" alt="Wordpress" height="40"  align="left" title="I want also learn Wordpress"/>
 
 
 
