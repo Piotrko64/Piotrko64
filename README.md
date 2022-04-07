@@ -36,7 +36,7 @@
 
 <img src="https://user-images.githubusercontent.com/77500425/161314456-895abf4c-d1f6-4819-a053-f35919c6ee42.png" alt="rxjs" height="40"  align="left" title="Reactive programming"/>
 <img src="https://user-images.githubusercontent.com/77500425/162248968-1306a5a9-1683-4764-8608-95eeed00d10e.png" alt="angular" height="40"  align="left" title="I would like write better code with Angular framework"/>
-<img src="https://user-images.githubusercontent.com/77500425/162248842-39e68a01-c651-47a4-b670-1b476a974bca.png)" alt="Wordpress" height="40"  align="left" title="I want also learn Wordpress"/>
+<img src="https://user-images.githubusercontent.com/77500425/162248842-39e68a01-c651-47a4-b670-1b476a974bca.png" alt="Wordpress" height="40"  align="left" title="I want also learn Wordpress"/>
 
 
 
