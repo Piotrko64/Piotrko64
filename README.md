@@ -50,7 +50,7 @@
  
 </details>
 
-<details><summary>  📊 Statistics </summary>
+##<details><summary>  📊 Statistics </summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrko64&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
  
