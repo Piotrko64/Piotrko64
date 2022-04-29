@@ -44,10 +44,9 @@
 <br/>
 <br/>
 
-## 📊 Statistics
+<details><summary> ## 📊 Statistics </summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrko64&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-<details><summary><b>Answer</b></summary>
-aaaaaaa
 </details>
 
