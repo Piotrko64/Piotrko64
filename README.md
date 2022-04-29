@@ -44,16 +44,11 @@
 <br/>
 <br/>
 
- ## <details><summary>  📊 Statistics </summary>
+
+## 📊 Statistics >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrko64&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
  
-</details>
 
-## <details><summary>  📊 Statistics </summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrko64&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
- 
-</details>
 
 
