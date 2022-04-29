@@ -7,7 +7,7 @@
 
 💻 I am an IT technician 
 
-<img src="https://user-images.githubusercontent.com/77500425/165946350-ecc74e84-e5de-4533-92ae-fa4fad6ebc1d.png" width="20px">I run an [**Instagram about Frontend**](https://www.instagram.com/front_flex/) to record and share my knowledge
+<img src="https://user-images.githubusercontent.com/77500425/165946350-ecc74e84-e5de-4533-92ae-fa4fad6ebc1d.png" width="20px"> I run an [**Instagram about Frontend**](https://www.instagram.com/front_flex/) to record and share my knowledge
 
 
 📈 I am student of economy
