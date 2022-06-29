@@ -35,10 +35,10 @@
 <img alt="Vitest" height="35px" src="https://vitest.dev/logo.svg" title="Vitest"/>
 <img src="https://user-images.githubusercontent.com/77500425/161314431-3f4833dd-b483-4308-bebf-4348b9d3c7bd.png" alt="SQL" height="35"  align="left" title="MySQL and SQL"/>
 
-</br>
+
 
 ## 👌 My favourite project:
-[**POKEFLEX CARD GAME**](https://frontflex.netlify.app](https://poke-flex.netlify.app) 
+[**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piotrko64&show_icons=true&locale=en&layout=compact" alt="goodideagiver" />
