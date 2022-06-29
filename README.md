@@ -42,6 +42,10 @@
 <img src="https://user-images.githubusercontent.com/77500425/162248842-39e68a01-c651-47a4-b670-1b476a974bca.png" alt="Wordpress" height="40"  align="left" title="I want also learn Wordpress"/>
 
 <br/>
+
+<br/>
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piotrko64&show_icons=true&locale=en&layout=compact" alt="goodideagiver" />
 <br/>
 
