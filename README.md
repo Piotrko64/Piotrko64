@@ -37,8 +37,8 @@
 
 
 
-## 👌 My favourite project:
-[**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
+## 👌 My favourite project: [**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piotrko64&show_icons=true&locale=en&layout=compact" alt="goodideagiver" />
