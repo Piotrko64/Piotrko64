@@ -54,7 +54,7 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Piotrko64&label=Piotrko64&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Piotrko64&label=ProfileViews&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <br/>
 
