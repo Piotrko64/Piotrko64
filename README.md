@@ -5,7 +5,7 @@
 
 💻 I am an IT technician 
 
-🎵 [**I run tik-tok about Front-end**](https://www.tiktok.com/@front.js)
+🎵 I run tik-tok about Front-end [**(go to my profile)**](https://www.tiktok.com/@front.js)
 
 
 📈 I am student of economy
