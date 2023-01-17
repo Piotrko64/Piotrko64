@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="35"  align="left" title="HTML"/><img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="35"  align="left" title="CSS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312230-36d37ac5-8801-4313-a68c-c5695c429b70.png" alt="javascript" height="35" align="left" title="JS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161311954-e03613e7-54b2-4d1b-ac2e-559f8c1e9f2d.png" alt="typescript" height="35"  align="left" title="TS"/>
-<img src="https://user-images.githubusercontent.com/77500425/161311874-2582135f-2ad4-420c-8c77-dd60594871e1.png" alt="bootstrap" height="35"  align="left"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312615-f3961568-28bb-48fa-9d95-93ecd61337b3.png" alt="react"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="35"  align="left" title="NextJS"/>
@@ -39,7 +39,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piotrko64&show_icons=true&locale=en&layout=compact" alt="goodideagiver" />
+
 <!-- 
 ## 🎯 My next goals 
 
