@@ -26,7 +26,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312615-f3961568-28bb-48fa-9d95-93ecd61337b3.png" alt="react"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="35"  align="left" title="NextJS"/>
-<img src="https://user-images.githubusercontent.com/77500425/161312978-1f37569f-b06b-45a7-81c0-4e7353264960.svg" alt="Gatsby"  height="35" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161313295-a11c936d-a0b3-4bb6-84c1-9ea3c459c3b8.png" alt="Mongo"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312763-dd21dc88-2b1a-4a66-896b-8ce02e0c6a8c.png" alt="Node"  height="35" align="left"/>
@@ -48,15 +47,15 @@
 <img src="https://user-images.githubusercontent.com/77500425/162248968-1306a5a9-1683-4764-8608-95eeed00d10e.png" alt="angular" height="40"  align="left" title="I would like write better code with Angular framework"/> -->
 <!-- <img src="https://user-images.githubusercontent.com/77500425/162248842-39e68a01-c651-47a4-b670-1b476a974bca.png" alt="Wordpress" height="40"  align="left" title="I want also learn Wordpress"/> -->
 
-
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Piotrko64&label=ProfileViews&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
+<!-- 
 
 <br/>
 
+[![](https://visitcount.itsvg.in/api?id=Piotrko64&label=ProfileViews&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in) -->
 
+<br/>
+
+## 🧐 Contact on Discord: Piętro64#4767
 
 
 
