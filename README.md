@@ -30,14 +30,12 @@
 <img src="https://user-images.githubusercontent.com/77500425/161313295-a11c936d-a0b3-4bb6-84c1-9ea3c459c3b8.png" alt="Mongo"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312763-dd21dc88-2b1a-4a66-896b-8ce02e0c6a8c.png" alt="Node"  height="35" align="left"/>
 <img alt="Vitest" height="35px" src="https://vitest.dev/logo.svg" title="Vitest"/>
-<img src="https://user-images.githubusercontent.com/77500425/161314431-3f4833dd-b483-4308-bebf-4348b9d3c7bd.png" alt="SQL" height="35"  align="left" title="MySQL and SQL"/>
+<img src="https://user-images.githubusercontent.com/77500425/213710589-41466a3d-923c-46ca-b39b-4e160408b1a9.png" alt="vue" height="35"  align="center" title="Vue" />
+
 
 <br/>
 
 ## 👌 My favourite project: [**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
-
-
-
 
 <!-- 
 ## 🎯 My next goals 
@@ -53,7 +51,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Piotrko64&label=ProfileViews&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in) -->
 
-<br/>
+
 
 ## 🧐 Contact on Discord: Piętro64#4767
 
