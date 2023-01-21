@@ -14,7 +14,7 @@
 
 ## 🧾 Websites for others
 
- - [**Sound Architecture**](https://soundarchitecture.netlify.app)
+ - [**Sound Architecture**](https://soundarchitecture.vercel.app)
 
  - [**Markowe Meble**](https://markowe-meble.com.pl)
 
