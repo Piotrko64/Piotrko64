@@ -35,7 +35,8 @@
 
 <br/>
 
-## 👌 My favourite project: [**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
+## My own game: [**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
+## English learning application: [**POKEFLEX CARD GAME**](https://poke-flex.netlify.app](https://wordsy-angielski.vercel.app/Fiszki)
 
 <!-- 
 ## 🎯 My next goals 
