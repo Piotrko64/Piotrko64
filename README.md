@@ -36,6 +36,7 @@
 <br/>
 
 ## My own game: [**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
+## App to create card with wishes: [**Party Card**](https://party-card.vercel.app) 
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 
 <!-- 
