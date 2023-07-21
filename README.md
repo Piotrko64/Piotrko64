@@ -42,7 +42,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piotrko64" alt="piotrko64" /></a> </p>
 <!-- 
 ## 🎯 My next goals 
 
@@ -55,11 +54,11 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Piotrko64&label=ProfileViews&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=Piotrko64&label=ProfileViews&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 
 
-## 🧐 Contact on Discord: Piętro64#4767
+## 🧐 Contact on Discord: Piętro64#4767  -->
 
 
 
