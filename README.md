@@ -34,11 +34,15 @@
 
 
 <br/>
-
+<!-- 
 ## My own game: [**POKEFLEX CARD GAME**](https://poke-flex.netlify.app) 
 ## App to create card with wishes: [**Party Card**](https://party-card.vercel.app) 
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
+-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piotrko64" alt="piotrko64" /></a> </p>
 <!-- 
 ## 🎯 My next goals 
 
