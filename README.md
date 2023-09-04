@@ -41,6 +41,7 @@
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/bc9205e7-6679-41df-84d1-ba12c7d7d9fa"/>
 
 <br>
+
 [Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
