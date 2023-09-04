@@ -1,21 +1,20 @@
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" > <img alt="Hello I'm Piotr" align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=white&center=false&vCenter=true&width=435&lines=Hello+I%27m+Piotr">
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&pause=1000&center=true&width=435&lines=Hello!+I+am+Piotr+-+Frontend+Developer" alt="Typing SVG" /></a>
   
 
 ❤️ I love learning new things 
 
 💻 I am an IT technician 
 
-🎵 I run tik-tok about Front-end [**(go to my profile)**](https://www.tiktok.com/@front.js)
+<!-- 🎵 I run tik-tok about Front-end [**(go to my profile)**](https://www.tiktok.com/@front.js)
 
 
-
-✨ My dream is to become a Front-end Developer!
 
 ## 🧾 Websites for others
 
  - [**Sound Architecture**](https://soundarchitecture.vercel.app)
 
  - [**Markowe Meble**](https://markowe-meble.com.pl)
+ -->
 
 ## 👨‍💻 Languages and other technologies 
 <img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="35"  align="left" title="HTML"/><img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="35"  align="left" title="CSS"/>
@@ -38,6 +37,7 @@
 ## App to create card with wishes: [**Party Card**](https://party-card.vercel.app) 
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 -->
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/075cf838-a658-45e4-96b6-ec468d38d46b" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
 
