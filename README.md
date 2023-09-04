@@ -43,7 +43,7 @@
 
 <br>
 
-[Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/)
+## [Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
 
