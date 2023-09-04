@@ -38,7 +38,8 @@
 ## App to create card with wishes: [**Party Card**](https://party-card.vercel.app) 
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 -->
-<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/bc9205e7-6679-41df-84d1-ba12c7d7d9fa" align="left"/>
+
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/c12d42e0-1e83-4634-a652-f09fdf86c89b"/>
 
 <br>
 
