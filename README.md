@@ -1,4 +1,4 @@
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&pause=1000&center=true&width=435&lines=Hello!+I+am+Piotr+-+Frontend+Developer" alt="Typing SVG" /></a>
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32ADE4&center=true&vCenter=true&width=477&lines=Hello!+I+am+Piotr+-+Frontend+Developer!" alt="Typing SVG" /></a>
   
 
 ❤️ I love learning new things 
@@ -37,7 +37,8 @@
 ## App to create card with wishes: [**Party Card**](https://party-card.vercel.app) 
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 -->
-<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/075cf838-a658-45e4-96b6-ec468d38d46b" />
+
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/10205106-9bc2-4d5f-89ad-f78f28e24450" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
 
