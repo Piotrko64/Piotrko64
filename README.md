@@ -3,12 +3,13 @@
 
 ❤️ I love learning new things 
 
-💻 I am an IT technician 
+💻 I am an IT technician and I have a bachelor's degree in economics
+
+👨🏻‍💻 Development is my goal in life
 <br>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Piotrko64)](https://github.com/piotrko64/github-readme-stats)
 
-<br>
 
 <!-- 🎵 I run tik-tok about Front-end [**(go to my profile)**](https://www.tiktok.com/@front.js)
 
