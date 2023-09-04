@@ -1,4 +1,4 @@
-  # <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" align="center"> <img alt="Hello I'm Piotr"  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=white&center=false&vCenter=true&width=435&lines=Hello+I%27m+Piotr"> </p>
+  # <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px" > <img alt="Hello I'm Piotr" align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=white&center=false&vCenter=true&width=435&lines=Hello+I%27m+Piotr"> </p>
   
 
 ❤️ I love learning new things 
