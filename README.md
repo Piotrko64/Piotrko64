@@ -5,6 +5,9 @@
 
 💻 I am an IT technician 
 <br>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Piotrko64)](https://github.com/piotrko64/github-readme-stats)
+
 <br>
 
 <!-- 🎵 I run tik-tok about Front-end [**(go to my profile)**](https://www.tiktok.com/@front.js)
