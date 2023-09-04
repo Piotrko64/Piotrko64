@@ -28,15 +28,13 @@
 <img src="https://user-images.githubusercontent.com/77500425/161314348-bd1a1db1-cf7d-4a7d-a870-25f357a2a03d.png" alt="Next.js" height="35"  align="left" title="NextJS"/>
 <img src="https://user-images.githubusercontent.com/77500425/162248968-1306a5a9-1683-4764-8608-95eeed00d10e.png" alt="angular" height="40"  align="left" title="I would like write better code with Angular framework"/>
 <img src="https://user-images.githubusercontent.com/77500425/161314456-895abf4c-d1f6-4819-a053-f35919c6ee42.png" alt="rxjs" height="40"  align="left" title="Reactive programming"/>
-<img src="(https://github.com/Piotrko64/Piotrko64/assets/77500425/342725e7-3379-422b-bfcb-0942cb494712" alt="VUE" height="40"  align="left" title="vue"/>
-<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/76264cba-81b6-483d-b274-91c0d3b3d9d8" alt="SEO"  height="35" align="left"/>
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/342725e7-3379-422b-bfcb-0942cb494712" alt="VUE" height="40"  align="left" title="vue"/>
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/4210a398-ab4b-4c2d-a7ae-092004f83368" alt="SEO"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161313295-a11c936d-a0b3-4bb6-84c1-9ea3c459c3b8.png" alt="Mongo"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312763-dd21dc88-2b1a-4a66-896b-8ce02e0c6a8c.png" alt="Node"  height="35" align="left"/>
 <br>
-![SEO]()
 
 
-![Vue js_Logo_2 svg])
 
 <br/>
 <!-- 
@@ -44,7 +42,7 @@
 ## App to create card with wishes: [**Party Card**](https://party-card.vercel.app) 
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 -->
-<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ac7a156c-a09a-4ad0-9057-87b0617b4654> />
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ac7a156c-a09a-4ad0-9057-87b0617b4654"> />
 
 
 <br>
