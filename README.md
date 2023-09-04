@@ -38,7 +38,10 @@
 ## App to create card with wishes: [**Party Card**](https://party-card.vercel.app) 
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 -->
+![Group 10](https://github.com/Piotrko64/Piotrko64/assets/77500425/bc9205e7-6679-41df-84d1-ba12c7d7d9fa)
 
+<br>
+[Go to Blog!]([https://link-url-here.org](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
 
