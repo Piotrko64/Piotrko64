@@ -45,7 +45,7 @@
 [![Linkedin Blog](https://github.com/Piotrko64/Piotrko64/assets/77500425/10205106-9bc2-4d5f-89ad-f78f28e24450)](https://www.linkedin.com/in/piotr-kołodziejczyk/)
 
 
-
+[![name](https://github.com/Piotrko64/Piotrko64/assets/77500425/10205106-9bc2-4d5f-89ad-f78f28e24450)](https://www.linkedin.com/in/piotr-kołodziejczyk/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
 
