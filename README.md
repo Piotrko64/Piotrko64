@@ -47,9 +47,6 @@
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 -->
 
-<a href="https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/" target="_blank">
- <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ac7a156c-a09a-4ad0-9057-87b0617b4654" alt="Go to blog" width="600" />
-</a>
 
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ac7a156c-a09a-4ad0-9057-87b0617b4654" />
 
