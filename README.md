@@ -55,6 +55,19 @@
 
 <b> [Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/) </b>
 
+## 🧑‍🎓 What I would like learn in the future: 
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/842c47ae-1458-4695-bef3-b5f5d3d7577e" alt="JAVA" height="40"  align="left" title="JAVA"/>
+
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/6991fe11-ae5f-4e84-98af-26e3e761455b" alt="REACT NATIVE" height="40"  align="left" title="REACT NATIVE"/>
+
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/a966d560-4c05-47f9-b96b-abe7f56d2b57" alt="ANALOGjs" height="40"  align="left" title="AnalogJS - Angular Meta Framework"/>
+
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/4a43771e-96e8-4026-b7ee-0e18fc9641fc" alt="Flutter" height="40"  align="left" title="Flutter"/>
+
+<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ed65794b-2b1c-4711-829b-46393706f2e3" alt="Python" height="40"  align="left" title="Python and Django"/>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
 
 <!-- 
