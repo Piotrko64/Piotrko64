@@ -66,9 +66,10 @@
 
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ed65794b-2b1c-4711-829b-46393706f2e3" alt="Python" height="40"  align="left" title="Python and Django"/>
 
-
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" /> </p>
+<br>
 
 <!-- 
 ## 🎯 My next goals 
