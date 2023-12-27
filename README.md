@@ -66,7 +66,6 @@
 
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/4a43771e-96e8-4026-b7ee-0e18fc9641fc" alt="Flutter" height="40"  align="left" title="Flutter"/>
 
-<img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ed65794b-2b1c-4711-829b-46393706f2e3" alt="Python" height="40"  align="left" title="Python and Django"/>
 </p>
 <br>
 <br>
