@@ -74,7 +74,7 @@
 <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" />
 <br>
 
-⬇️⬇️️ Look at my projects below ⬇️⬇️
+<h3>⬇️⬇️️ Look at my projects below ⬇️⬇️</h3>
 <!-- 
 ## 🎯 My next goals 
 
