@@ -55,7 +55,7 @@
 
 <b> [Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/) </b>
 <br>
-
+<!-- 
 ## 🧑‍🎓 What I would like learn in the future: 
 <p>
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/842c47ae-1458-4695-bef3-b5f5d3d7577e" alt="JAVA" height="40"  align="left" title="JAVA"/>
@@ -67,6 +67,7 @@
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/4a43771e-96e8-4026-b7ee-0e18fc9641fc" alt="Flutter" height="40"  align="left" title="Flutter"/>
 
 </p>
+-->
 <br>
 <br>
 <br>
