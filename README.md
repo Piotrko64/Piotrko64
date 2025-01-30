@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> <img alt="Hello I'm Piotr" align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=white&center=false&vCenter=true&width=435&lines=Hello+I%27m+Piotr+-+Frontend+Developer">
-  
+ 
+👔 I am Co-Founder of [**Auralis Studio**](https://auralis-studio.pl)
 
 ❤️ I love learning new things 
 
@@ -10,8 +11,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Piotrko64)](https://github.com/piotrko64/github-readme-stats)
 
-
-<!-- 🎵 I run tik-tok about Front-end [**(go to my profile)**](https://www.tiktok.com/@front.js)
 
 
 
