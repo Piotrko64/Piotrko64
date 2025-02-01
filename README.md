@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> <img alt="Hello I'm Piotr" align="center" src="https://github.com/user-attachments/assets/32cb4c31-a5a7-415f-aac1-f7c4d703b69a">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=0E36B1&width=435&lines=I+am+Peter+-+Software+Developer;I+%E2%9D%A4%EF%B8%8F+Angular%2C+React%2C+C%23+(.Net);I+am+Co-founder+Auralis+Studio;In+free+time+I+code+own+apps;I+love+NestJS%2C+Typescript%2C+AWS;I+am+Fullstack+Developer;Web+Developing+rule!+%F0%9F%A4%8D;Look+on+my+awesome+projects+%F0%9F%91%87;React+Native+is+awesome!;Look+on+my+blog+on+Linkedin!;My+portfolio+was+made+by+NextJS;I+am+Piotrko64;This+is+13+line!+Wow!;Typescript+is+cool;Make+wish+card+by+my+PARTY+CARD+project;Use+WORDSY+app+to+learn+english;Chronos+is+my+microfrontend+project;Nazywam+si%C4%99+Piotrek+%3A);I+think+about+own+website+to+blog;I+learn+to+get+AWS+Cloud+Practitioner+Cert">
 
 👔 I am Co-Founder of [**Auralis Studio**](https://auralis-studio.pl)
 
