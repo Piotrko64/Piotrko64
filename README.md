@@ -2,7 +2,7 @@
 
 👔 I am Co-Founder of [**Auralis Studio**](https://auralis-studio.pl)
 
-❤️ I love learning new things [**My website**](https://piotrko64.pl)
+❤️ I love learning new things ([**My website**](https://piotrko64.pl))
 
 👨🏻‍💻 Development is my goal in life
 <br>
