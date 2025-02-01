@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> <img alt="Hello I'm Piotr" align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=white&center=false&vCenter=true&width=435&lines=Hello+I%27m+Piotr+-+Frontend+Developer">
- 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> <img alt="Hello I'm Piotr" align="center" src="https://github.com/user-attachments/assets/32cb4c31-a5a7-415f-aac1-f7c4d703b69a">
+
 👔 I am Co-Founder of [**Auralis Studio**](https://auralis-studio.pl)
 
 ❤️ I love learning new things 
