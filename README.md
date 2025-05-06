@@ -42,6 +42,10 @@
 
 <b> [Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/) </b>
 <br>
+
+I also write blog on Auralis Studio!
+
+[**Auralis Studio - My Last Post**](https://auralis-studio.pl/blog/automatyzacja-github-actions)
 <!-- 
 ## 🧑‍🎓 What I would like learn in the future: 
 <p>
