@@ -7,8 +7,6 @@
 👨🏻‍💻 Development is my goal in life
 <br>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Piotrko64)](https://github.com/piotrko64/github-readme-stats)
-
 
 ## 👾 Languages and other technologies 
 <img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="35"  align="left" title="HTML"/><img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="35"  align="left" title="CSS"/>
