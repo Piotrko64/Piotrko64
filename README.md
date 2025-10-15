@@ -1,14 +1,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=0E36B1&width=435&lines=I+am+Peter+-+Software+Developer;I+%E2%9D%A4%EF%B8%8F+Angular%2C+React%2C+C%23+(.Net);I+am+Co-founder+Auralis+Studio;In+free+time+I+code+own+apps;I+love+NestJS%2C+Typescript%2C+AWS;I+am+Fullstack+Developer;Web+Developing+rule!+%F0%9F%A4%8D;Look+on+my+awesome+projects+%F0%9F%91%87;React+Native+is+awesome!;Look+on+my+blog+on+Linkedin!;My+portfolio+was+made+by+NextJS;I+am+Piotrko64;This+is+13+line!+Wow!;Typescript+is+cool;Make+wish+card+by+my+PARTY+CARD+app;Use+WORDSY+app+to+learn+english;Chronos+is+my+microfrontend+project;Nazywam+si%C4%99+Piotrek+%3A);I+think+about+own+website+to+blog;Laravel+is+Awesome!;I+learn+to+get+AWS+Cloud+Practitioner+Cert;auralis-studio.pl+invites!">
 
-👔 I am Co-Founder of [**Auralis Studio**](https://auralis-studio.pl)
-
 ❤️ I love learning new things ([**My website**](https://piotrko64.pl))
 
 👨🏻‍💻 Development is my goal in life
+
+👔 I am Co-Founder of [**Auralis Studio**](https://auralis-studio.pl)
+
+[**My new Blog**](https://blog.piotrko64.pl)
+
 <br>
 
 
 ## 👾 Languages and other technologies 
+<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="35"  align="left" title="AWS_AI"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="35"  align="left" title="HTML"/><img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="35"  align="left" title="CSS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312230-36d37ac5-8801-4313-a68c-c5695c429b70.png" alt="javascript" height="35" align="left" title="JS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161311954-e03613e7-54b2-4d1b-ac2e-559f8c1e9f2d.png" alt="typescript" height="35"  align="left" title="TS"/>
