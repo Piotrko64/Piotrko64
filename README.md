@@ -43,6 +43,8 @@
 <br/>
 <br/>
 <br>
+<br/>
+<br>
 
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ac7a156c-a09a-4ad0-9057-87b0617b4654" />
 
