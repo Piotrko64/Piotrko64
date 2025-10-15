@@ -39,7 +39,7 @@
 
 ##
 
-<div><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="45"  align="left" title="AWS_AI"/></div>
+<div><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="78"  align="left" title="AWS_AI"/></div>
 <br/>
 <br/>
 <br>
