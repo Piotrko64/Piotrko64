@@ -13,7 +13,9 @@
 
 ## 👾 Languages and other technologies 
 
-<img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="35"  align="left" title="HTML"/><img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="35"  align="left" title="CSS"/>
+<div>
+
+</div><img src="https://user-images.githubusercontent.com/77500425/161312332-1842468e-46e2-4dc6-8996-4b4cc28bc4fd.png" alt="html5" height="35"  align="left" title="HTML"/><img src="https://user-images.githubusercontent.com/77500425/161312398-ceb134e4-5c2f-41c6-b58c-ccb7329528ba.png" alt="css3" height="35"  align="left" title="CSS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312230-36d37ac5-8801-4313-a68c-c5695c429b70.png" alt="javascript" height="35" align="left" title="JS"/>
 <img src="https://user-images.githubusercontent.com/77500425/161311954-e03613e7-54b2-4d1b-ac2e-559f8c1e9f2d.png" alt="typescript" height="35"  align="left" title="TS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="35" align="left"/>
@@ -35,18 +37,18 @@
 ## English learning application: [**Wordsy**](https://wordsy-angielski.vercel.app/Fiszki)
 -->
 
+##
+
+<div><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="45"  align="left" title="AWS_AI"/></div>
+<br/>
+<br/>
+<br>
 
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ac7a156c-a09a-4ad0-9057-87b0617b4654" />
 
 
-<br>
-
 <b> [Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/) </b>
-<br>
 
-I also write blog on Auralis Studio!
-
-[**Auralis Studio - My Last Post**](https://auralis-studio.pl/blog/automatyzacja-github-actions)
 <!-- 
 ## 🧑‍🎓 What I would like learn in the future: 
 <p>
@@ -60,16 +62,14 @@ I also write blog on Auralis Studio!
 
 </p>
 -->
-<br>
-<br>
-<br>
+
+
+
 
 <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" />
-<br><br/>
+<br>
 
-<div>
-<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="55"  align="left" title="AWS_AI"/>
-</div>
+
 
 <h3>⬇️⬇️️ Look at my projects below ⬇️⬇️</h3>
 <!-- 
