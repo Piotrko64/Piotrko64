@@ -25,10 +25,8 @@
 <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/4210a398-ab4b-4c2d-a7ae-092004f83368" alt="SEO"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161313295-a11c936d-a0b3-4bb6-84c1-9ea3c459c3b8.png" alt="Mongo"  height="35" align="left"/>
 <img src="https://user-images.githubusercontent.com/77500425/161312763-dd21dc88-2b1a-4a66-896b-8ce02e0c6a8c.png" alt="Node"  height="35" align="left"/>
-<br><br>
-<div>
-<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="45"  align="left" title="AWS_AI"/>
-</div>
+
+
 
 <br/>
 <!-- 
@@ -67,7 +65,11 @@ I also write blog on Auralis Studio!
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=piotrko64&label=Profile%20views&color=0e75b6&style=flat" alt="piotrko64" />
-<br>
+<br><br/>
+
+<div>
+<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="55"  align="left" title="AWS_AI"/>
+</div>
 
 <h3>⬇️⬇️️ Look at my projects below ⬇️⬇️</h3>
 <!-- 
