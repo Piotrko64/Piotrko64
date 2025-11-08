@@ -39,7 +39,7 @@
 
 ##
 
-<div><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="78"  align="left" title="AWS_AI"/></div>
+<div><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="78"  align="left" title="AWS_AI"/><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" alt="AWS CLOUD PRACTITIONER" height="78"/></div>
 <br/>
 <br/>
 <br>
