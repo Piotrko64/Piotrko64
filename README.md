@@ -17,10 +17,9 @@
 <div>
 
 </div>
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
@@ -36,24 +35,12 @@
 
 
 
-<br/>
 
-###
+
+### 🏅 Certificates
 
 <div><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS-AI" height="78"  align="left" title="AWS_AI"/><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" alt="AWS CLOUD PRACTITIONER" height="78"/></div>
 <br/>
-<br/>
-<br>
-<br/>
-<br>
-
-<!-- <img src="https://github.com/Piotrko64/Piotrko64/assets/77500425/ac7a156c-a09a-4ad0-9057-87b0617b4654" />
-
-
-<b> [Go to Blog!](https://www.linkedin.com/in/piotr-kołodziejczyk/recent-activity/all/) </b> -->
-
-
-
 
 
 
