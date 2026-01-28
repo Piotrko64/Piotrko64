@@ -7,7 +7,7 @@
 
 👨🏻‍💻 Development is my goal in life
 
-[**My new Blog**](https://blog.piotrko64.pl)
+[**My new Blog**](https://blog.piotrko64.pl](https://piotrko-tech-blog.vercel.app)
 
 <br>
 
