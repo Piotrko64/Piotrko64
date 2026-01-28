@@ -3,11 +3,11 @@
 [![Click - To See My Blog on Linkedin](https://img.shields.io/badge/Click-To_See_My_Blog_on_Linkedin-blue?style=for-the-badge&logo=logmein&logoColor=blue)](https://www.linkedin.com/in/piotr-ko%C5%82odziejczyk/recent-activity/all/)
 
 
-❤️ I love learning new things [**My website**](https://piotrko-tech-blog.vercel.app)
+❤️ I love learning new things [**My website**](https://piotrkolodziejczyk.vercel.app/)
 
 👨🏻‍💻 Development is my goal in life
 
-[**My new Blog**](https://blog.piotrko64.pl](https://piotrko-tech-blog.vercel.app)
+[**My new Blog**](https://piotrko-tech-blog.vercel.app)
 
 <br>
 
