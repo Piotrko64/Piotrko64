@@ -5,18 +5,12 @@
 
 👨🏻‍💻 [**My website**](https://piotrkolodziejczyk.vercel.app/)
 
-<br>
-
 📰[**My new Blog**](https://piotrko-tech-blog.vercel.app)
 
 <br>
 
-
 ### 👾 Languages and technologies 
 
-<div>
-
-</div>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
